@@ -41,8 +41,8 @@ social:
     #- https://twitter.com/Mwaniki1 # change to your Twitter homepage
     - https://github.com/SteveJesco # change to your GitHub homepage
     # Uncomment below to add more social links
-     #- https://www.facebook.com/Mukii
-     - https://www.linkedin.com/in/ianstephen-mwaniki
+    #- https://www.facebook.com/Mukii
+    #- https://www.linkedin.com/in/ianstephen-mwaniki
 
 # Site Verification Settings
 webmaster_verifications:
