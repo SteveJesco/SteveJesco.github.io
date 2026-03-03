@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ianstephen Muriuki # the main title
+title: "Ianstephen Muriuki" # the main title
 
 tagline: Information Security and Forensics | CTFs | Digital Forensics | Pentester # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  My journey and project in IT, InfoSec, Digital Forensics
+description:  # used by seo meta and the atom feed
+  "My journey and project in IT, InfoSec, Digital Forensics"
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
