@@ -1,22 +1,32 @@
 ---
-title: "challenges"
-date: 2025-02-28 14:00:00 +0300
-categories: [Challenges, Web-Exploitation]
-tags: [ctf, sqli, web-security, database]
-image:
-  path: /assets/sqli-challenge.png
-  alt: SQL Injection Challenge
+title: Lab Challenges
+icon: fas fa-flag-checkered
+order: 4
+
+
+## CTF & Lab Challenge
+---
+**HTB**: SQL Injection Challenge - Advanced Bypass
+
 ---
 
 ## 🎯 Challenge Overview
 
 **Platform**: HackTheBox  
+
 **Category**: Web Exploitation  
+
 **Difficulty**: Medium  
+
 **Points**: 50  
+
 **Skills**: SQL Injection, Authentication Bypass, Database Enumeration
 
----
+**Date**: 2025-02-28 14:00:00 +0300
+
+**Categories**: Challenges, Web-Exploitation
+
+**Tags**: ctf, sqli, web-security, database
 
 ## 📋 Problem Statement
 
