@@ -9,7 +9,7 @@ order: 1
 
 **Ianstephen Muriuki Mwaniki**
 
-**CyberSec Professional | Digital Forensics | PenTester | CTFs**
+CyberSec Professional | Digital Forensics | PenTester | CTFs
 
 
 ## Professional Statement
