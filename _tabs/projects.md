@@ -1,17 +1,16 @@
 ---
-title: Projects
 icon: fas fa-code
 order: 3
 ---
 
 # Featured Projects
 
-A showcase of my technical projects spanning cybersecurity, web development, 
-and automation. All projects are open-source and available on GitHub.
+- A showcase of my technical projects spanning CyberSecurity | Web Development. 
+- All projects are open-source and available on GitHub.
 
 ---
 
-## 🔐 Security Tools
+## 🔐 Security Tool
 
 ### 🛡️ Secure Crime Reporting System
 Advanced secure tool for reporting cases.
@@ -42,7 +41,7 @@ Basic types of lists in HTML.
 ---
 
 
-## 📈 GitHub Profile
+## 📈 My GitHub Profile
 
 Check out all my projects on GitHub:
 
