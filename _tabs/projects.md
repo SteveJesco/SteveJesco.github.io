@@ -5,7 +5,7 @@ order: 3
 
 # Featured Projects
 
-- A showcase of my technical projects spanning CyberSecurity | Web Development. 
+- A showcase of my technical projects spanning CyberSecurity and Web Development. 
 - All projects are open-source and available on GitHub.
 
 ---
