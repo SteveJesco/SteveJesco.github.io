@@ -1,15 +1,4 @@
 # The Site Configuration
-# Site URL settings for GitHub Pages (user site)
-url: "https://SteveJesco.github.io"
-baseurl: ""
-
-# GitHub username used by some theme features
-github:
-  username: SteveJesco
-
-# Ensure feed plugin is enabled
-plugins:
-  - jekyll-feed
   
 # Import the theme
 theme: jekyll-theme-chirpy
