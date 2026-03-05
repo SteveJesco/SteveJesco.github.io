@@ -1,5 +1,5 @@
 ---
-title: "HTB: SQL Injection Challenge - Advanced Bypass"
+title: "challenges"
 date: 2025-02-28 14:00:00 +0300
 categories: [Challenges, Web-Exploitation]
 tags: [ctf, sqli, web-security, database]
@@ -260,8 +260,3 @@ if __name__ == "__main__":
 - [HackTheBox Academy: SQL Injection Module](https://academy.hackthebox.com/)
 
 ---
-
-**Challenge Status**: ✅ Solved  
-**Completion Date**: February 28, 2024
-
-*Writeup published with permission from HackTheBox*
