@@ -10,13 +10,11 @@ order: 2
 ## Education
 
 ### Bsc. Information Security and Forensics
-**KCA University** | Ruaraka 
-- *SEP 2025 - APR 2027*
+**KCA University** | Ruaraka | *SEP 2025 - APR 2027*
 - **Activities**: KCA CyberSecurity Club
 
 ### Diploma in Information Technology
-**Dedan Kimathi University Of Technology** | Nyeri 
-- *SEP 2021 - DEC 2023*
+**Dedan Kimathi University Of Technology** | Nyeri |  *SEP 2021 - DEC 2023*
 - **GRADE**: Credit
 - **Activities**: Wildlife Club, President's Award Kenya
 ---
@@ -24,23 +22,19 @@ order: 2
 ## Experience
 
 ### Deputy Presiding Officer
-**IEBC** | Kirinyaga 
-- *June 2024*
-
+**IEBC** | Kirinyaga | *JUN 2024*
 - Oversaw election processes, ensuring accurate voter registration verification and timely announcements.
 - Collaborated with presiding officer and clerks to ensure smooth election operations.
 
 
 ### Attachment
-**Mununga Tea Factory** | Keroguya
-- *MAY 2023 - JULY 2023*
+**Mununga Tea Factory** | Keroguya | *MAY 2023 - JULY 2023*
 
 - Executed general maintenance updates and repairs to ensure equipment efficiency.
 - Collaborated with factory service administrator on daily operational tasks to enhance workflow.
 
 ## Polling Clerk
-**IEBC** | Kirinyaga
-- *AUG 2022*
+**IEBC** | Kirinyaga | *AUG 2022*
   
 - Ensured that all voting materials were properly secured at the close of polls each day.
 - Collaborated with other staff members to ensure smooth running of elections operations.
