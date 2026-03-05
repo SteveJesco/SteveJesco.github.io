@@ -4,17 +4,17 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# Welcome! 👋
+# Welcome!
 
-![Ianstephen Muriuki Mwaniki](/assets/avatar.jpg){: width="250" .left}
+![Ianstephen Muriuki Mwaniki](/assets/avatar.jpg){: width="200" .left}
 
-## Your Name
+**Ianstephen Muriuki Mwaniki**
 ### Professional Tagline
-CyberSec Professional | Digital Forensics | PenTester | CTFs | *
+**CyberSec Professional | Digital Forensics | PenTester | CTFs**
 
-I am a passionate [CyberSec] professional with expertise in [Cybersecurity, Digital forensics, and Ethical Hacking.]. 
-Currently pursuing [Information Security and Forensics] with a focus on 
-[Cryptography, Network Security, CTFs, Malware Analysis and Security Automation].
+I am a passionate CyberSec professional with expertise in Cybersecurity, Digital forensics, and Ethical Hacking. 
+Currently pursuing Information Security and Forensics with a focus on 
+Cryptography, Network Security, CTFs, Malware Analysis and Security Automation.
 
 ---
 
