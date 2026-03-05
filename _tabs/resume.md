@@ -82,6 +82,6 @@ order: 2
 
 ## 📄 Download
 
-[📥 Download PDF Resume](/assets/files/YourName_Resume.pdf){: .btn .btn-primary}
+[📥 Download PDF Resume](/assets/cv.pdf){: .btn .btn-primary}
 
-*Last Updated: [Date]*
+*Last Updated: 05/03/2026*
